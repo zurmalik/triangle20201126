@@ -5,7 +5,7 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 /**
- * Unit test for simple App.
+ * Unit test for simple triangle.
  */
 class TriangleTest {
 
