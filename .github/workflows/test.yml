@@ -23,4 +23,4 @@ jobs:
           restore-keys: ${{ runner.os }}-m2
 
       - name: Test with Maven
-        run: mvn -B test --file hcl20201126/pom.xml
+        run: mvn -B test --file ../pom.xml
