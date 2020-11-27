@@ -19,7 +19,7 @@ public final class Triangle {
         validator.validateOutput(area);
 
         System.out.print("area: " + area);
-        
+
         return area;
     }
 
